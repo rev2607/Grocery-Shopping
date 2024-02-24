@@ -1,7 +1,5 @@
 # Grocery-Shopping
 
-# Household Inventory Management System
-
 ## Problem Statement:
 Keeping track of household inventory and predicting when items are about to run out can be a tedious and time-consuming task. Manually monitoring inventory levels and remembering past consumption patterns can lead to frequent stock-outs, resulting in inconvenience and unnecessary trips to the store.
 
